@@ -1,0 +1,242 @@
+/*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉ 980px ▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
+
+@media only screen and (max-width: 980px) {
+
+body {
+    background-image: url("../images/whiteZigZag.png");
+}
+
+.▉▊content {
+
+    background-color: #ffffff;
+    margin: 0px auto 100px auto;
+    width: 95%;
+    clear: both;
+    margin-top: 40px;
+    border: solid #dddddd;
+    border-width: 1px;
+}
+
+.▉▊contcont {
+    width: 95%;
+    margin: 30px auto 30px auto;
+    border-top: solid #dddddd;
+    border-width: 3px;
+    padding-top: 30px;
+}
+
+#▉▊links {
+    height: 40%;
+    width: 33.33%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+header {
+    width: 100%;
+    margin: auto;
+    background-color: #ffffff;
+    height: 100%;
+    border-bottom: solid #cccccc;
+    border-width: 1px
+}
+    
+    
+    /*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉ 768px ▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
+    
+@media only screen and (max-width: 768px) {
+
+body {
+    background-image: url("../images/whiteBalls.png");
+}
+
+#▉▊nameCont {
+
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height: 100%;
+    width: 50%;
+    display: block;
+    text-align: center;
+    
+}
+
+
+
+header {
+
+    width: 100%;
+    margin: auto;
+    background-color: #ffffff;
+    height: 100%;
+    border-bottom: solid #cccccc;
+    border-width: 1px
+}
+
+.▉▊content {
+
+    background-color: #ffffff;
+    margin: 0px auto 100px auto;
+    width: 95%;
+    clear: both;
+    margin-top: 40px;
+    border: solid #dddddd;
+    border-width: 1px;
+}
+
+.▉▊contcont {
+    width: 95%;
+    margin: 30px auto 30px auto;
+    border-top: solid #dddddd;
+    border-width: 3px;
+    padding-top: 30px;
+}
+
+
+    /*============================================= PORTFOLIO.HTML =============================================*/
+
+    .▉▊img {
+        width: 320px;
+        height: 241px;
+        background-size: cover;
+        margin: 0 auto 0 auto;
+        float: none;
+        display: inline-block;
+    
+    }
+    
+
+
+    /*============================================= CONTACT.HTML =============================================*/
+
+
+input[type=text] {
+    width: 80%;
+    height: 20px;
+    margin: 5px 0 15px 0;
+    padding: 12px 20px;
+    font-size: large;
+    color: #4b4b4b
+}
+    
+    /*▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉ 640px ▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉▊▉*/
+    
+@media only screen and (max-width: 640px) {
+
+body {
+    background-image: url("../images/whiteWall.png");
+}
+
+#▉▊nameCont {
+
+    background-color: #4aaaa5;
+    color: #ffffff;
+    height: 60%;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+#▉▊links {
+
+    height: 40%;
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+header {
+
+    width: 100%;
+    margin: auto;
+    background-color: #ffffff;
+    height: 200%;
+    border-bottom: solid #cccccc;
+    border-width: 1px
+}
+
+.▉▊content {
+
+    background-color: #ffffff;
+    margin: 0px auto 100px auto;
+    width: 95%;
+    clear: both;
+    margin-top: 40px;
+    border: solid #dddddd;
+    border-width: 1px;
+}
+
+.▉▊contcont {
+    width: 95%;
+    margin: 30px auto 30px auto;
+    border-top: solid #dddddd;
+    border-width: 3px;
+    padding-top: 30px;
+}
+
+    /*============================================= INDEX.HTML =============================================*/
+    
+#▉▊myFace {
+    margin: 0 auto 9% auto;
+    float: none;
+    display: block;
+
+}
+
+#▉▊para1 {
+    clear: both;
+}
+
+    /*============================================= PORTFOLIO.HTML =============================================*/
+
+.▉▊img {
+    width: 320.828px;
+    height: 241px;
+    background-size: cover;
+    margin: 0 auto 0 auto;
+    float: none;
+    display: block;
+
+}
+
+.imleft {
+    margin: 15px 15px 15px 15px;
+    display: inline-block;
+
+}
+
+.imright {
+    margin: 15px 15px 15px 15px;
+    display: inline-block;
+}
+
+    /*============================================= CONTACT.HTML =============================================*/
+
+    .▉▊forms {
+        color: #777777;
+    }
+    
+    input[type=text] {
+        width: 80%;
+        height: 20px;
+        margin: 5px 0 15px 0;
+        padding: 12px 20px;
+        font-size: large;
+        color: #4b4b4b
+    }
+    
+    button {
+        background-color: #4aaaa5;
+        padding: 15px 25px 15px 25px;
+        font-size: 15px;
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        color: #ffffff
+    }
+    
+    button:hover {
+        background-color: #439793;
+        color: #eeeeee;
+    }
+
+};
